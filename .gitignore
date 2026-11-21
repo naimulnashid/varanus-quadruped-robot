@@ -1,0 +1,5 @@
+# Arduino IDE and editor files
+build/
+.vscode/
+desktop.ini
+Thumbs.db
