@@ -6,10 +6,6 @@ This repository is a project showcase, not a maintained library.
 
 ## Demo
 
-| The robot | The team's SOLIDWORKS design |
-|---|---|
-| ![Varanus on a table: a white 3D-printed body, four three-jointed legs ending in black suction cups, green suction tubes and an ESP32-CAM in the head](assets/varanus-robot.jpg) | ![CAD render of Varanus showing the two-part body, the head and tail mounts and the three-part legs](assets/varanus-cad-render.jpg) |
-
 ![Visual abstract: design, electronics, gait and results of Varanus](assets/visual-abstract.png)
 
 <a href="https://youtu.be/qgUb6V_92d4"><img src="https://img.youtube.com/vi/qgUb6V_92d4/maxresdefault.jpg" width="100%" alt="Thumbnail of the team's ME 366 video presentation of Varanus"></a>
