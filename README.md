@@ -12,7 +12,7 @@ This repository is a project showcase, not a maintained library.
 
 ![Visual abstract: design, electronics, gait and results of Varanus](assets/visual-abstract.png)
 
-[![Thumbnail of the team's ME 366 video presentation of Varanus](https://img.youtube.com/vi/qgUb6V_92d4/hqdefault.jpg)](https://youtu.be/qgUb6V_92d4)
+<a href="https://youtu.be/qgUb6V_92d4"><img src="https://img.youtube.com/vi/qgUb6V_92d4/maxresdefault.jpg" width="100%" alt="Thumbnail of the team's ME 366 video presentation of Varanus"></a>
 
 [Watch the team's ME 366 video presentation on YouTube](https://youtu.be/qgUb6V_92d4) (Group A11, March 2024).
 
