@@ -4,9 +4,9 @@ Arduino and ESP32-CAM code for Varanus, a 12-servo, four-legged robot modelled o
 
 This repository is a project showcase, not a maintained library.
 
-## Demo
-
 ![Visual abstract: design, electronics, gait and results of Varanus](assets/visual-abstract.png)
+
+## Demo
 
 <a href="https://youtu.be/qgUb6V_92d4"><img src="https://img.youtube.com/vi/qgUb6V_92d4/maxresdefault.jpg" width="100%" alt="Thumbnail of the team's ME 366 video presentation of Varanus"></a>
 
